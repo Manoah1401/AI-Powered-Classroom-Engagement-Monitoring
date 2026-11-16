@@ -1,4 +1,4 @@
-# Classroom Emotion Detection
+# AI-Powered Classroom Engagement Monitoring
 
 ## Overview
 
